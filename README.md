@@ -7,7 +7,7 @@ Full stack developer and recent CS grad based in Southern California.
 
 ## About me
 
-Recent CS graduate with interests in full-stack development and AI. I enjoy working on personal projects, exploring new technologies, and building tools that solve real problems. 
+Recent CS graduate with interests in full-stack development and Game Development. I enjoy working on personal projects, exploring new technologies, and building tools that solve real problems. 
 
 I'm particularly passionate about accessibility in technology. Through projects like [Playability](https://github.com/safegergis/playability) (a platform cataloging accessibility features in games) and my [Context-Aware Screen Magnifier](https://github.com/safegergis/context-magnifier) (which uses ML to intelligently magnify important content for visually impaired users), I'm working to make digital experiences more inclusive for everyone. I believe technology should empower all users, regardless of ability.
 
@@ -19,7 +19,7 @@ Outside of coding, I'm passionate about hiking, photography, fantasy novels, and
 - Making technology more accessible and inclusive
 - Web development with modern JavaScript frameworks
 - Machine learning and AI applications
-- Game development (Unity)
+- Game development
 
 ## Favorites
 
@@ -35,15 +35,13 @@ Outside of coding, I'm passionate about hiking, photography, fantasy novels, and
 
 ### Programming Languages
 - Golang
-- TypeScript
+- C++
 - Rust
 
 ## Technologies I work with
-
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -62,4 +60,4 @@ Outside of coding, I'm passionate about hiking, photography, fantasy novels, and
 
 ---
 
-*"Making technology work for everyone, not just the technically inclined."*
+*"Making technology work for everyone"*
